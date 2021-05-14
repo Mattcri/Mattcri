@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Bienvenido a mi perfil de Github </h1>
-<h3 align="center">Aquí es donde puedes ver mis proyectos favoritos y que han ayudado a crecer como desarrollador Front-End
+<h3 align="center">Aquí es donde puedes ver mis proyectos favoritos y que me han ayudado a crecer como desarrollador Front-End
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcri&label=Profile%20views&color=0e75b6&style=flat" alt="mattcri" /> </p>
