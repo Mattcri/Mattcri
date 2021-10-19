@@ -1,11 +1,6 @@
 <h1 align="center">Hola 👋, Bienvenido a mi perfil de Github </h1>
-<h3 align="center">Aquí es donde puedes ver mis proyectos favoritos y que me han ayudado a crecer como desarrollador Front-End
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcri&label=Profile%20views&color=0e75b6&style=flat" alt="mattcri" /> </p>
-
-Actualmente trabajo en una agencia digital donde me encargo de desarrollar layouts para clientes del área de la salud, educación superior, sector financiero y páginas de la agencia.
-Me preocupo de la mantención de sitios de los clientes, creando nuevas vistas o funcionalidades y contribuyo a nivel de Back-end en montar sitios personalizados en Wordpress.
 
 Disfruto escribiendo código CSS que sea modular y escalable, enemigo número uno de los altos niveles de especificidad que crean códigos complejos y difíciles de mantener. 
 Mi metodología predilecta de arquitectura CSS es BEM, ya que recuerda que cada línea de CSS puede ser reutilizada, solo depende de tu nivel de planificación antes de escribir hojas de estilo.
