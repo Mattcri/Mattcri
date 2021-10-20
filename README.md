@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcri&label=Profile%20views&color=0e75b6&style=flat" alt="mattcri" /> </p>
 
-Disfruto escribiendo código CSS que sea modular y escalable, enemigo número uno de los altos niveles de especificidad que crean códigos complejos y difíciles de mantener. 
+<!-- Disfruto escribiendo código CSS que sea modular y escalable, enemigo número uno de los altos niveles de especificidad que crean códigos complejos y difíciles de mantener. 
 Mi metodología predilecta de arquitectura CSS es BEM, ya que recuerda que cada línea de CSS puede ser reutilizada, solo depende de tu nivel de planificación antes de escribir hojas de estilo.
 
-Tengo una filosofía de trabajo colaborativo, en donde me gusta aprender de mis compañeros de equipo y en la medida de lo posible cooperar compartiendo mis conocimientos para crecer en conjunto.
+Tengo una filosofía de trabajo colaborativo, en donde me gusta aprender de mis compañeros de equipo y en la medida de lo posible cooperar compartiendo mis conocimientos para crecer en conjunto. -->
 
 Si sientes que mi perfil puede ser interesante, te invito a que escribas **mcriado.cg@gmail.com** 📫
 
