@@ -7,7 +7,7 @@ Mi metodología predilecta de arquitectura CSS es BEM, ya que recuerda que cada 
 
 Tengo una filosofía de trabajo colaborativo, en donde me gusta aprender de mis compañeros de equipo y en la medida de lo posible cooperar compartiendo mis conocimientos para crecer en conjunto. -->
 
-Si sientes que mi perfil puede ser interesante, te invito a que escribas **mcriado.cg@gmail.com** 📫
+Puedes contactarme en **mcriado.cg@gmail.com** 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
